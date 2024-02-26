@@ -1,0 +1,39 @@
+body{
+    background: rgb(34, 133, 14);
+    text-align: center;
+    
+}
+.container{
+    border: 3px groove greenyellow;
+    max-width: 50%;
+    align-content: center;
+}
+h1{
+    color: rgb(211, 192, 27);
+}
+
+p{
+    color:white;
+    font-weight: bold;
+}
+
+#message-el{
+    font-style: italic;
+}
+
+#start-btn{
+    color: rgb(34, 133, 14);
+    background-color: rgb(211, 192, 27);
+    border: none;
+    border-radius: 2px;
+    font-weight: bold;
+    margin: 5px;
+}
+#new-card{
+    color: rgb(34, 133, 14);
+    background-color: rgb(211, 192, 27);
+    border: none;
+    border-radius: 2px;
+    font-weight: bold;
+    margin: 5px;
+}
